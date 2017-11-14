@@ -11,7 +11,7 @@ May 22-24, 2018
  
 ### Organizing Committee
 + Kira Adaricheva (Hofstra University, NY)  
-+ William DeMeo (University of Colorado, Boulder, CO)   
++ [William DeMeo](mailto:williamdemeo@gmail.com) (University of Colorado, Boulder, CO)   
 + Jennifer Hyndman (Univ. Northern British Columbia, Canada)
  
 ### Contributed Talks 
