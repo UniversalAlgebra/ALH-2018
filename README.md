@@ -27,7 +27,7 @@ https://easychair.org/conferences/?conf=alhawaii2018
 ### Accommodations
 
 A limited number of rooms on the University of Hawai’i campus in [Lincoln Hall](https://www.eastwestcenter.org/about-ewc/housing/housing-facilities/lincoln-hall) will be set aside for participants of the conference.
-They will be available starting on December 4th on a first-come-first-served basis.  The nightly rate in Lincoln Hall runs between $56 and $80, depending 
+They will be available starting on December 4th on a first-come-first-served basis.  The nightly rate in Lincoln Hall runs between \$56 and \$80, depending 
 on the type of room requested.
 Interested participants should contact [East-West Center Housing](https://www.eastwestcenter.org/about-ewc/housing/conference-housing) and mention the conference name "Algebras and Lattices in Hawai’i."
 
