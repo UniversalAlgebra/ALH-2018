@@ -21,7 +21,7 @@ May 22-24, 2018
 ### Contributed Talks 
 Applications for the contributed talks will be open in November 2017 via EasyChair.  Please use the following link to submit your short paper or extended abstract:
 
-https://easychair.org/conferences/?conf=alhawaii2018
+[https://easychair.org/conferences/?conf=alhawaii2018](https://easychair.org/conferences/?conf=alhawaii2018)
  
 
 ### Accommodations
