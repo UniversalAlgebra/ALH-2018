@@ -12,33 +12,43 @@ The conference will be hosted by University of Hawai’i at Manoa, Honolulu, HI,
  
 ### Dates  
 May 22-24, 2018
- 
-### Organizing Committee
-+ [Kira Adaricheva](mailto:Kira.Adaricheva@hofstra.edu) (Hofstra University, NY)  
-+ [William DeMeo](mailto:williamdemeo@gmail.com) (University of Colorado, Boulder, CO)   
-+ Jennifer Hyndman (Univ. Northern British Columbia, Canada)
- 
+
+---------------------------------------------------------
+
+#### Quick Links
+- [Contributed Talks](#contributed-talks)
+- [Accommodations](#accommodations)
+  - [On-campus](#on-campus)
+  - [Off-campus](#off-campus)
+- [Further Information](#further-information)
+- [Organizing Committee](#organizing-committee)
+  - [Local Organizers](#local-organizers)
+  - [Contact](#contact)
+
+-------------------------------------------------------------
+
 ### Contributed Talks 
 Applications for the contributed talks will be open in November 2017 via EasyChair.  Please use the following link to submit your short paper or extended abstract:
 
 [https://easychair.org/conferences/?conf=alhawaii2018](https://easychair.org/conferences/?conf=alhawaii2018)
  
+-------------------------------------------------------------
 
 ### Accommodations
 
+#### On-campus
 Rooms on the University of Hawai’i campus in [Lincoln Hall](https://www.eastwestcenter.org/about-ewc/housing/housing-facilities/lincoln-hall) will be set aside for participants of the conference.
 They will be available starting on December 4th on a first-come-first-served basis.  The nightly rate in Lincoln Hall runs between 56 and 80 USD, depending on the type of room requested.
 Registered participants can contact the
 [East-West Center Housing office](https://www.eastwestcenter.org/about-ewc/housing/conference-housing)
 at (808) 944-7805 and mention their association with the "Algebras and Lattices in Hawai’i" conference.
-(Upon check-in, you will be required to prove that you have registered for the conference or the "Algebras and Algorithms" conference.)  
-Requests may also be made by [email](mailto:housing@eastwestcenter.org).
+(Upon check-in, you will be required to prove that you have registered for the conference or the "Algebras and Algorithms" conference.) Requests may also be made by [email](mailto:housing@eastwestcenter.org).
 
-#### Off Campus Hotels
+#### Off-campus
 Here are some other options that are a bus ride away from campus.
 We have not arranged a special conference rate at these hotels, but
-most hotels will offer the usual discounts (e.g., AAA) as well as 
-the usual local ("kama aina") discount if you can present a Hawaii 
+most will offer the usual discounts (e.g., AAA, AARP) as well as 
+local ("kama aina") discounts if presented with a Hawaii 
 driver's license at check-in.
 
 ##### Two-Star Hotels
@@ -64,7 +74,7 @@ driver's license at check-in.
 + [Moana Surfrider](http://www.moana-surfrider.com/)  
   2365 Kalakaua Avenue, Honolulu, HI 96815  
   Phone: 808-922-3111; Reservations: 888-627-8107  
-+ [Outrigger Waikiki Beach Resort](http://www.outriggerwaikikihotel.com/#gref)   
++ [Outrigger Waikiki Beach Resort](http://www.outriggerwaikikihotel.com/#gref)     
   2335 Kalakaua Ave, Honolulu, HI 96815  
   Phone: (808) 923-0711
 
@@ -79,10 +89,26 @@ driver's license at check-in.
   Address: 2259 Kalakaua Ave, Honolulu, HI 96815  
   Phone: (808) 923-7311  
   
+-------------------------------------------------------------
+
 ### Further Information
 Future announcements will describe plans for special publications and travel arrangements. If you are interested in participating, please send a short message to the contact email below.
  
-### Contact
+-------------------------------------------------------------
+
+
+### Organizing Committee
++ [Kira Adaricheva](mailto:Kira.Adaricheva@hofstra.edu) (Hofstra University, NY)   
++ [William DeMeo](mailto:williamdemeo@gmail.com) (University of Colorado, Boulder, CO)   
++ Jennifer Hyndman (Univ. Northern British Columbia, Canada)
+
+#### Local Organizers
++ [Tristan Holmes](mailto:tristanh@hawaii.edu) (University of Hawaii, Manoa, HI)  
++ [Joy Nishida](mailto:jnishida@hawaii.edu) (University of Hawaii, Manoa, HI)
+ 
+#### Contact
 [AlgebrasLatticesHawaii2018@gmail.com](mailto:AlgebrasLatticesHawaii2018@gmail.com)
+
+-------------------------------------------------------------
  
 *Mahalo!*
