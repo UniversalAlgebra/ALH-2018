@@ -34,6 +34,51 @@ at (808) 944-7805 and mention their association with the "Algebras and Lattices 
 (Upon check-in, you will be required to prove that you have registered for the conference or the "Algebras and Algorithms" conference.)  
 Requests may also be made by [email](mailto:housing@eastwestcenter.org).
 
+#### Off Campus Hotels
+Here are some other options that are a bus ride away from campus.
+We have not arranged a special conference rate at these hotels, but
+most hotels will offer the usual discounts (e.g., AAA) as well as 
+the usual local ("kama aina") discount if you can present a Hawaii 
+driver's license at check-in.
+
+##### Two-Star Hotels
++ [Waikiki Grand Hotel](https://www.castleresorts.com/oahu/waikiki-grand-hotel/)  
+  134 Kapahulu Ave, Honolulu, HI 96815  
+  Phone: (808) 923-1814
+
+##### Three-Star Hotels
++ [Maile Sky Court](http://www.mailesky.com/) (now Holiday Inn Express)  
+  2058 Kuhio Ave, Honolulu, HI 96815  
+  Phone: (808) 947-2828  
++ [Wyndham Vacation Resorts Royal Garden](http://www.vacationhawaii.com/wyndham-vacation-resorts-royal-garden)  
+  440 Olohana St, Honolulu, HI 96815  
+  Phone: (855) 421-4785  
++ [Hawaiian Monarch Hotel](http://www.hawaiianmonarchhotels.com/#/ms-1/1)  
+  444 Niu St, Honolulu, HI 96815  
+  Phone: (866) 293-4738  
++ [Queen Kapiolani](http://www.queenkapiolani.com/)   
+  150 Kapahulu Ave, Honolulu, HI 96815  
+  Phone: (808) 922-1941
+
+##### Four-Star Hotels
++ [Moana Surfrider](http://www.moana-surfrider.com/)  
+  2365 Kalakaua Avenue, Honolulu, HI 96815  
+  Phone: 808-922-3111; Reservations: 888-627-8107  
++ [Outrigger Waikiki Beach Resort](http://www.outriggerwaikikihotel.com/#gref)   
+  2335 Kalakaua Ave, Honolulu, HI 96815  
+  Phone: (808) 923-0711
+
+##### Five-Star hotels
++ [Halekulani](https://www.halekulani.com/)  
+  2199 Kalia Rd, Honolulu, HI 96815  
+  Phone: (808) 923-2311  
++ [The Kahala Hotel & Resort](https://www.kahalaresort.com/)    
+  5000 Kahala Ave, Honolulu, HI 96816  
+  Phone: (808) 739-8888  
++ [The Royal Hawaiian](https://www.royal-hawaiian.com/)  
+  Address: 2259 Kalakaua Ave, Honolulu, HI 96815  
+  Phone: (808) 923-7311  
+  
 ### Further Information
 Future announcements will describe plans for special publications and travel arrangements. If you are interested in participating, please send a short message to the contact email below.
  
