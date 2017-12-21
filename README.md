@@ -42,7 +42,7 @@ They will be available starting on December 4th on a first-come-first-served bas
 Registered participants can contact the
 [East-West Center Housing Office](https://www.eastwestcenter.org/about-ewc/housing/conference-housing)
 at (808) 944-7805 and mention their association with the "Algebras and Lattices in Hawai’i" conference.
-(Upon check-in, you will be required to prove that you have registered for the conference or the "Algebras and Algorithms" conference.) Requests may also be made by [email](mailto:housing@eastwestcenter.org).
+(Upon check-in, you will be required to prove that you have registered for the conference.) Requests may also be made by [email](mailto:housing@eastwestcenter.org).
 
 #### Off-campus
 Here are some other options that are a bus ride away from campus.
