@@ -40,7 +40,7 @@ Applications for the contributed talks will be open in November 2017 via EasyCha
 Rooms on the University of Hawai’i campus in [Lincoln Hall](https://www.eastwestcenter.org/about-ewc/housing/housing-facilities/lincoln-hall) will be set aside for participants of the conference.
 They will be available starting on December 4th on a first-come-first-served basis.  The nightly rate in Lincoln Hall runs between 56 and 80 USD, depending on the type of room requested.
 Registered participants can contact the
-[East-West Center Housing office](https://www.eastwestcenter.org/about-ewc/housing/conference-housing)
+[East-West Center Housing Office](https://www.eastwestcenter.org/about-ewc/housing/conference-housing)
 at (808) 944-7805 and mention their association with the "Algebras and Lattices in Hawai’i" conference.
 (Upon check-in, you will be required to prove that you have registered for the conference or the "Algebras and Algorithms" conference.) Requests may also be made by [email](mailto:housing@eastwestcenter.org).
 
@@ -106,6 +106,10 @@ Future announcements will describe plans for special publications and travel arr
 + [Tristan Holmes](mailto:tristanh@hawaii.edu) (University of Hawaii, Manoa, HI)  
 + [Joy Nishida](mailto:jnishida@hawaii.edu) (University of Hawaii, Manoa, HI)
  
+#### Special Thanks To
++ [Sue Hasegawa](mailto:sue@math.hawaii.edu) (University of Hawaii, Manoa, HI)  
++ [East-West Center Housing Office](https://www.eastwestcenter.org/about-ewc/housing/conference-housing)
+
 #### Contact
 [AlgebrasLatticesHawaii2018@gmail.com](mailto:AlgebrasLatticesHawaii2018@gmail.com)
 
