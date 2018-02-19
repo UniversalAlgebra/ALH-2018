@@ -3,7 +3,21 @@ header {
   background-image: url('{{ site.baseurl }}/assets/image/UHCampusRainbow.jpg');
 }
 .fstPage  {
-    background-image:url("/assets/image/UHCampusRainbow.jpg");
+    background-image:url('{{ site.baseurl }}/assets/image/UHCampusRainbow.jpg');
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
+.fstPageAlt  {
+    background-image:url('./assets/image/UHCampusRainbow.jpg');
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
+.fstPageAgain  {
+    background-image:url('/assets/image/UHCampusRainbow.jpg');
     /*background-color: lightgray;*/
     height: 700px;
     width:100%;
