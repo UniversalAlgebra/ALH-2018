@@ -1,7 +1,11 @@
----
----
-
 @import "{{ site.theme }}";
 header {
-  background-image: url('{{ site.baseurl }}/img/UHCampusRainbow.jpg');
+  background-image: url('{{ site.baseurl }}/assets/image/UHCampusRainbow.jpg');
+}
+.fstPage  {
+    background-image:url("/assets/image/UHCampusRainbow.jpg");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
 }
