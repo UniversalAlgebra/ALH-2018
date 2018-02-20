@@ -9,12 +9,13 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href='{{ site.baseurl }/assets/css/style.scss}'>
-
+    <div class="fstPageAgain"></div>
   </head>
   <body>
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <div class="fstPage"></div>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -22,10 +23,9 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
-    <div class="fstPageAlt"></div>
     </section>
 
-    <div class="fstPage"></div>
+    <div class="fstPageAlt"></div>
 
     <section class="main-content">
       {{ content }}
