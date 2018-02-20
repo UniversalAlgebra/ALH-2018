@@ -5,7 +5,7 @@ Three Legends of Universal Algebra and Lattice Theory, Ralph Freese, Bill Lampe,
 
 --- 
 
-**DEADLINE EXTENDED:** Following the multiple requests, the submission deadline is now extended to February 20, 2018.
+**DEADLINE EXTENDED:** Following multiple requests, the submission deadline is now extended to February 20, 2018.
 
 ---
 
@@ -49,9 +49,9 @@ We will referee short papers (up to 6 pages long, with possible extra 2 pages fo
 
 A short paper is not equivalent to an extended abstract of a proposed talk, and should contain new results which are proved, or new survey material. Papers may be submitted even if the author cannot attend the conference. 
 
-If you plan to give a talk at the conference and prefer to submit an extended abstract (1-2 pages long) instead of a paper, then you need not submit via EasyChair; you may simply send your abstract as an email attachment to the conference email address, [algebraslatticeshawaii2018@gmail.com](algebraslatticeshawaii2018@gmail.com). Extended abstracts will not be published in the conference proceedings, but will available on the conference web-site.
+If you plan to give a talk at the conference and prefer to submit an extended abstract (1-2 pages long) instead of a paper, then you need not submit via EasyChair; you may simply send it as an email attachment to the conference email address, [algebraslatticeshawaii2018@gmail.com](algebraslatticeshawaii2018@gmail.com). Extended abstracts will not be published in the conference proceedings, but will available on the conference web-site.
 
-Submission of contributed papers should be made via Easy Chair using the
+Submission of contributed papers should be made via Easy Chair using the following
 
 **EasyChair paper submission link:** [https://easychair.org/conferences/?conf=alhawaii2018](https://easychair.org/conferences/?conf=alhawaii2018)
 
