@@ -29,6 +29,7 @@ May 22--24, 2018
 - [Algebras and Lattices in Hawai’i](#algebras-and-lattices-in-hawaii)
 		- [Introduction](#introduction)
 		- [Program](#program)
+			- [Confirmed List of Invited Speakers](#confirmed-list-of-invited-speakers)
 		- [Contributed Talks](#contributed-talks)
 			- [Submission Information](#submission-information)
 			- [Submission Deadline](#submission-deadline)
@@ -59,6 +60,23 @@ This is a conference celebrating three mathematicians who spent their careers at
 ---
 
 ### Program
+
+(coming soon!)
+
+#### Confirmed List of Invited Speakers
++ Brian Davey (La Trobe University)
++ Ralph Freese (University of Hawaii)
++ Peter Jipsen (Chapman University)
++ Keith Kearnes (University of Colorado, Boulder)
++ Bill Lampe (University of Hawaii)
++ Ralph McKenzie (Vanderbilt University)
++ George McNulty (University of South Carolina)
++ J.B. Nation (University of Hawaii)
++ Peter Palfy (Alfred Renyi Institute of Mathematics)
++ Walter Taylor (University of Colorado, Boulder)
++ Matthew Valeriote (McMaster University)
++ Ross Willard (University of Waterloo)
+
 
 ---
 
