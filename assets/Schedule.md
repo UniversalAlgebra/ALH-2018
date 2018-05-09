@@ -5,17 +5,17 @@
 | Time         | May 22               | May 23           |
 | ---          | ---                  |---               |
 | 9:00--9:30   | registration/opening |                  |
-| 9:30--10:15  | **McNulty**          | **Willard**      |
-| 10:20--10:45 | Clifford Bergman     | Dang Van Vinh    |
+| 9:30--10:15  | [**McNulty**](./abstracts/McNulty.md)          | **Willard**      |
+| 10:20--10:45 | [Clifford Bergman](./abstracts/Bergman.md)     | [Dang Van Vinh](./abstracts/Dang.md)    |
 |              | coffee break         | coffee break     |
 | 11:30--12:10 | **Freese**           | **Lampe**        |
-| 12:15--12:40 | Charlotte Aten       | Sylvia Silberger |
+| 12:15--12:40 | [Charlotte Aten](./abstracts/Aten.md)       | Sylvia Silberger |
 |              | LUNCH                | LUNCH            |
-| 14:00--14:50 | **Palfy**            | **Kearnes**      |
+| 14:00--14:50 | [**Palfy**](./abstracts/Palfy.pdf)            | **Kearnes**      |
 | 14:55--15:20 | Bjoern Kjos-Hanssen  | Branimir Seselja |
 |              | coffee break         | coffee break     |
-| 16:00--16:40 | **Valeriote**        | **Davey**        |
-| 16:45--17:10 | Boza Tasic           | David Clark      |
+| 16:00--16:40 | [**Valeriote**](./abstracts/Valeriote.md)        | **Davey**        |
+| 16:45--17:10 | Boza Tasic           | [David Clark](./abstracts/Clark.pdf)      |
 |              |                      |                  |
 | 19:00--21:00 |                      | Dinner @ Willows |
 
@@ -36,4 +36,4 @@
 |              | coffee break   |
 | 15:20--16:05 | **Taylor**     |
 | 16:10--16:35 | Pawel Idziak   |
-| 16:40--17:20 | **Jipsen**     |
+| 16:40--17:20 | [**Jipsen**](./abstracts/JipsenALHabstract.pdf) |
