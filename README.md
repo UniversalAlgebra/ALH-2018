@@ -62,7 +62,7 @@ This is a conference celebrating three mathematicians who spent their careers at
 
 ## Program
 
-(coming soon!)
+Please see the [schedule of talks](./assets/Schedule.md)
 
 ### Invited Speakers
 + Brian Davey (La Trobe University)

@@ -1,3 +1,5 @@
-_cache/
-_site/
+email-to-wehrung.txt
+*~
+*.log
+*.aux
 .stack-work/
