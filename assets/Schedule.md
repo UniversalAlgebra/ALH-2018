@@ -29,7 +29,7 @@
 | 10:10--10:30 | Gent Gjonbalaj |
 |              | coffee break   |
 | 11:00--11:50 | [**Nation**](./abstracts/Nation.md)    |
-| 11:55--12:20 | [Mick Adams](./abstracts/Adams.md)     |
+| 11:55--12:20 | [Mick Adams](./abstracts/Adams.pdf)     |
 |              | LUNCH          |
 | 13:40--14:20 | **McKenzie**   |
 | 14:25--14:50 | Paolo Agliano  |
