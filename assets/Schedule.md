@@ -25,7 +25,7 @@
 
 | Time         | May 24         |
 | ---          | ---            |
-|  9:30--10:05 | **Adaricheva** |
+|  9:30--10:05 | Kira Adaricheva|
 | 10:10--10:30 | Gent Gjonbalaj |
 |              | coffee break   |
 | 11:00--11:50 | **Nation**     |
@@ -37,4 +37,3 @@
 | 15:20--16:05 | **Taylor**     |
 | 16:10--16:35 | Pawel Idziak   |
 | 16:40--17:20 | **Jipsen**     |
-
