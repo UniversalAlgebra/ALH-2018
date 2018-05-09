@@ -1,6 +1,6 @@
 **Title.** Minimal SH-approximation of semigroups
 
-**Speaker.** V.~V.~Dang
+**Speaker.** V. V. Dang
 
 **Institution.** Department of Applied Sciences,  Vietnam National University-HCMC, Hochiminhcity University of Technology, Saigon, Vietnam
 
