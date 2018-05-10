@@ -121,7 +121,7 @@ If you rent a car during your travel to Hawaii, and you will need day or overnig
 We have been informed by the university parking office that we need to pay event parking early this week (week of May 7), otherwise, parking on the campus will be impossible for participants. 
 Thus, we need to make a careful count of all of you who will need parking passes.
 
-An all day/all night pass is $5/day on weekdays and $6/day on Saturdays (Sunday is free parking anywhere on campus).
+An all day/all night pass is 5 dollars per day on weekdays and 6 dollars per day on Saturdays (Sunday is free parking anywhere on campus).
 
 Please, send us a note immediately if you will need the parking during the conference days May 22--24, and we will make an advance payment for the parking passes for you. If you order the passes, the cost will be added to your registration fee.
 
