@@ -104,7 +104,7 @@ Applications for contributed talks begin in November 2017 via EasyChair.  Please
 ## Registration and Parking Information
 Registration for the conference will be from 5pm to 7pm on Monday, May 21, outside of Keller Hall Room 319. 
 
-The registration fee is $110, which will include the banquet at Willows on Wednesday, May 22. If you bring a spouse who wants to attend the banquet, the fee will be $60. 
+The registration fee is 110 US Dollars, which includes the banquet at Willows on Wednesday, May 22. If you bring a spouse who wants to attend the banquet, the fee will be increased by 60 dollars to 170 total. 
 
 **Please, pay the fees in cash when you register.**
 
