@@ -36,4 +36,4 @@
 |              | coffee break   |
 | 15:20--16:05 | **Taylor**     |
 | 16:10--16:35 | [Pawel Idziak](./abstracts/Idziak.md) |
-| 16:40--17:20 | [**Jipsen**](./abstracts/JipsenALHabstract.pdf) |
+| 16:40--17:20 | [**Jipsen**](./abstracts/Jipsen.md) |
