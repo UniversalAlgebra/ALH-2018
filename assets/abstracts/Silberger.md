@@ -4,7 +4,7 @@
 
 **Institution.** Hofstra University, NY
 
-**Abstract.** Let ${\cal F}$ denote the family of all finite nonempty $S\subseteq{\mathbb N}:=\{1,2,\ldots\}$, and let ${\cal F}(X):={\cal F}\cap\{S:S\subseteq X\}$ when $X\subseteq{\mathbb N}$. 
+**Abstract.** Let $${\cal F}$$ denote the family of all finite nonempty $S\subseteq{\mathbb N}:=\{1,2,\ldots\}$, and let ${\cal F}(X):={\cal F}\cap\{S:S\subseteq X\}$ when $X\subseteq{\mathbb N}$. 
 In this talk we treat the function $\sigma:{\cal F}\rightarrow{\mathbb Q}^+$ given by $\sigma:S\mapsto\sigma S :=\sum\{1/x:x\in S\}$, and the function $\delta:{\cal F}\rightarrow{\mathbb N}$ 
 defined by $\sigma S = \nu S/\delta S$ where the integers $\nu S$ and $\delta S$ are coprime. 
 
