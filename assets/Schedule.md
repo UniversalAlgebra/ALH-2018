@@ -12,7 +12,7 @@
 | 12:15--12:40 | [Charlotte Aten](./abstracts/Aten.md)       | [Sylvia Silberger](./abstracts/Silberger.md) |
 |              | LUNCH                | LUNCH            |
 | 14:00--14:50 | [**Pálfy**](./abstracts/Palfy.md)            | [**Kearnes**](./abstracts/Kearnes.md)      |
-| 14:55--15:20 | [Bjørn Kjos-Hanssen](./abstracts/Kjos-Hanssen.md)  | Branimir Seselja |
+| 14:55--15:20 | [Bjørn Kjos-Hanssen](./abstracts/Kjos-Hanssen.md)  | [Branimir Seselja](./abstracts/Seselja.md) |
 |              | coffee break         | coffee break     |
 | 16:00--16:40 | [**Valeriote**](./abstracts/Valeriote.md)        | [**Davey**](./abstracts/Davey.md)        |
 | 16:45--17:10 | [Boza Tasic](./abstracts/TasicAbstract.pdf)           | [David Clark](./abstracts/Clark.md)    |
