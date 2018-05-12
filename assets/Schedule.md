@@ -32,7 +32,7 @@
 | 11:55--12:20 | [Mick Adams](./abstracts/Adams.pdf)     |
 |              | LUNCH          |
 | 13:40--14:20 | [**McKenzie**](./abstracts/McKenzie.md)   |
-| 14:25--14:50 | Paolo Agliano  |
+| 14:25--14:50 | [Paolo Aglianó](./abstracts/Agliano.md)  |
 |              | coffee break   |
 | 15:20--16:05 | [**Taylor**](./abstracts/Taylor.md)     |
 | 16:10--16:35 | [Paweł Idziak](./abstracts/Idziak.md) |
