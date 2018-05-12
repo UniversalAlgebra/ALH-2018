@@ -4,8 +4,6 @@
 
 Three Legends of Universal Algebra and Lattice Theory, Ralph Freese, Bill Lampe, and JB Nation, worked most of their careers at the University of Hawai’i at Manoa. They all will be approximately 70 years old in May 2018, and a conference is being organized to celebrate their achievements.
 
-
-
 --- 
 
 **DEADLINE EXTENDED.** Following multiple requests, the submission deadline is now extended to February 20, 2018.
@@ -113,9 +111,6 @@ Registration will continue on May 22, 8:30--9:30am near **Bilger Hall room 335**
 The conference will start at 9:30am on May 22, with about 25 talks currently scheduled over three days, May 22--24, between 9:30am and 5:30pm. There will be invited talks of 45-50 minutes, and contributed talks of 25 minutes.
 
 ### Parking on UH campus
-
-**East-West Center Housing Parking.** If you will be staying at East-West Center Housing (e.g., Lincoln Hall), then your accommodations are essentially just accross the street from the Math Department, and you can request a parking pass from the East-West Center.  In that case, you should not need the type of parking pass described in the next few paragraphs.
-
 If you plan to attend the conference, please send us a confirmation, and please **indication if you will need parking on campus** (this request is urgent, and we need to receive your confirmation before Monday, May 7).
 
 If you rent a car during your travel to Hawaii, and you will need day or overnight parking on the campus for the days of the conference, you need to request it now.
@@ -126,6 +121,10 @@ Thus, we need to make a careful count of all of you who will need parking passes
 An all day/all night pass is 5 dollars per day on weekdays and 6 dollars per day on Saturdays (Sunday is free parking anywhere on campus).
 
 Please, send us a note immediately if you will need the parking during the conference days May 22--24, and we will make an advance payment for the parking passes for you. If you order the passes, the cost will be added to your registration fee.
+
+**East-West Center Housing Parking.** If you will be staying at East-West Center Housing (Lincoln Hall), then you can call the
+[East-West Center Housing Office](https://www.eastwestcenter.org/about-ewc/housing/conference-housing)
+at (808) 944-7805 and ask to have a parking pass reserved for you. These passes are $5/day and permit you to park in the [lower campus parking structure](https://goo.gl/maps/a46GWXBsqRB2) near [1415 Lower Campus Road](https://goo.gl/maps/NnMGcRd6hRJ2the).  The structure is a 10 minute walk from the Math Department and Lincoln Hall.  You may also park upper campus after hours and on weekends.  If you reserve such a pass, you will have to pick it up at the Parking Office which is the lower level of the [Queen Liliu'okalani Center](http://manoa.hawaii.edu/commuter/contactus.php) (M--F, 7:45am--4:30pm).
 
 ---
 
