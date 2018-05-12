@@ -35,5 +35,5 @@
 | 14:25--14:50 | Paolo Agliano  |
 |              | coffee break   |
 | 15:20--16:05 | [**Taylor**](./abstracts/Taylor.md)     |
-| 16:10--16:35 | [Pawel Idziak](./abstracts/Idziak.md) |
+| 16:10--16:35 | [Paweł Idziak](./abstracts/Idziak.md) |
 | 16:40--17:20 | [**Jipsen**](./abstracts/Jipsen.md) |

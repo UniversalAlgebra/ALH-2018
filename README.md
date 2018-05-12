@@ -114,7 +114,9 @@ The conference will start at 9:30am on May 22, with about 25 talks currently sch
 
 ### Parking on UH campus
 
-If you plan to attend the conference, please send us a confirmation, and please **indication if you will need parking on campus** (this request is urgent, and we need to receive your confirmation before Monday).
+**East-West Center Housing Parking.** If you will be staying at East-West Center Housing (e.g., Lincoln Hall), then your accommodatios are essentially just accross the street from the Math Department, and you can request a parking pass from the East-West Center.  In that case, you should not need the type of parking pass described in the next few paragraphs.
+
+If you plan to attend the conference, please send us a confirmation, and please **indication if you will need parking on campus** (this request is urgent, and we need to receive your confirmation before Monday, May 7).
 
 If you rent a car during your travel to Hawaii, and you will need day or overnight parking on the campus for the days of the conference, you need to request it now.
 
