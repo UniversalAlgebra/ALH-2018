@@ -1,13 +1,10 @@
-**Title:** Deciding Maltsev conditions
+**Title.** UACalc and testing for Maltsev conditions
 
-**Speaker:** Matt Valeriote, McMaster University
+**Speaker.** Matt Valeriote
 
-**Abstract:** I will discuss results dealing with determining the computational complexity of the problem of deciding if a given finite algebra satisfies a particular Maltsev condition or not.  For a given strong Maltsev condition, this problem can be shown to lie in the class EXP-time and in general the problem will be EXP-time complete.  In work with R. Freese, we establish EXP-time completeness for a number of familiar Maltsev conditions and also show that if the problem is restricted to idempotent algebras, some of these problems can be solved by polynomial-time algorithms. Recently, these results have been extended in various directions, and I will present some of the following in my talk.
+**Institution.** Department of Mathematics, McMaster University, Canada
 
-**Theorem:** For A a finite idempotent algebra,  
-1. the following can be decided by polynomial-time algorithms:
-   - For a given n, deciding if V(A) generates an n-permutable variety (with R. Willard).
-   - For a given n, deciding if V(A) has a sequence of n Jonsson terms, or Gumm terms (with A. Kazda).
-   - Deciding if V(A) has a difference term (with W. DeMeo, R. Freese).
-2. The problem of deciding if A has a minority term is in NP (with A. Kazda and J. Oprsal).
-3. The problem of deciding if A has a semilattice term is EXP-time complete (with R. Freese and JB Nation)
+**Abstract.**
+In the 1990's several researchers, including Ralph Freese, Emil Kiss, and the speaker, produced various versions of a software package that is now known as UACalc.  In addition to being a very useful research tool for investigating finite algebras (I can't recall the last time that I had to compute the labelled congruence lattice of a finite algebra by hand), it also raised several interesting questions about the computational complexity of testing for certain properties of finite algebras and the varieties that they generate.
+
+I plan to talk about the role of the UH group in the development of computational tools for studying algebras and lattices and then will focus on a set of questions and results about the complexity of testing for certain Maltsev conditions that were in part motivated by using UACalc and that have helped to expand the scope of the calculator.
