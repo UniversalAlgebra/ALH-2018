@@ -14,5 +14,5 @@ We then discuss the following results.
 For each $$r\in{\mathbb Q}^+$$, there exists an infinite pairwise disjoint subfamily $${\cal H}_r\subseteq{\cal F}$$ such that $$r=\sigma S$$ for all $$S\in{\cal H}_r$$. 
 
 **Theorem 1.2.**  
-Let $$X$$ be a pairwise coprime set of positive integers. Then $$\sigma\restrict{\cal F}(X)$$ and $$\delta\restrict{\cal F}(X)$$ are injective. Also, $$\sigma C\in{\mathbb N}$$ for 
+Let $$X$$ be a pairwise coprime set of positive integers. Then $$\sigma\upharpoonright \mathcal F (X)$$ and $$\delta\upharpoonright \mathcal F (X)$$ are injective. Also, $$\sigma C\in{\mathbb N}$$ for 
 $$C\in{\cal F}(X)$$ only if $$C=\{1\}$$.
