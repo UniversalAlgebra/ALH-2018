@@ -26,7 +26,7 @@
 | Time         | May 24         |
 | ---          | ---            |
 |  9:30--10:05 | [Kira Adaricheva](./abstracts/Adaricheva.md) |
-| 10:10--10:30 | Gent Gjonbalaj |
+| 10:10--10:30 | [Gent Gjonbalaj](./abstracts/Gjonbalaj.md) |
 |              | coffee break   |
 | 11:00--11:50 | [**Nation**](./abstracts/Nation.md)    |
 | 11:55--12:20 | [Mick Adams](./abstracts/Adams.pdf)     |
