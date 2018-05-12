@@ -124,7 +124,7 @@ Please, send us a note immediately if you will need the parking during the confe
 
 **East-West Center Housing Parking.** If you will be staying at East-West Center Housing (Lincoln Hall), then you can call the
 [East-West Center Housing Office](https://www.eastwestcenter.org/about-ewc/housing/conference-housing)
-at (808) 944-7805 and ask to have a parking pass reserved for you. These passes are $5/day and permit you to park in the [lower campus parking structure](https://goo.gl/maps/a46GWXBsqRB2) near [1415 Lower Campus Road](https://goo.gl/maps/NnMGcRd6hRJ2the).  The structure is a 10 minute walk from the Math Department and Lincoln Hall.  You may also park upper campus after hours and on weekends.  If you reserve such a pass, you will have to pick it up at the Parking Office which is the lower level of the [Queen Liliu'okalani Center](http://manoa.hawaii.edu/commuter/contactus.php) (M--F, 7:45am--4:30pm).
+at (808) 944-7805 and ask to have a parking pass reserved for you. These passes are $5/day and permit you to park in the [lower campus parking structure](https://goo.gl/maps/a46GWXBsqRB2).  The walk from the parking structure to both the Math Department and Lincoln Hall takes 10 minutes.  (After hours and weekends, these parking passes should allow you to park in upper campus lots, which are much more convenient.)  If you have East-West Center reserve a parking pass for you, then you will have to pick up the pass at the Parking Office which is on the lower level of the [Queen Liliu'okalani Center](http://manoa.hawaii.edu/commuter/contactus.php) (Hours: M--F, 7:45am--4:30pm).
 
 ---
 
