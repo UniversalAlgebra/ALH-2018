@@ -22,7 +22,7 @@
 
 #### Day 3
 
-| Time $^{†}$         | May 24         |
+| Time         | May 24         |
 | ---          | ---            |
 |  9:30--10:05 | [Kira Adaricheva](./abstracts/Adaricheva.md) |
 | 10:10--10:30 | [Gent Gjonbalaj](./abstracts/Gjonbalaj.md) |
@@ -37,4 +37,4 @@
 | 16:10--16:35 | [Paweł Idziak](./abstracts/Idziak.md) |
 | 16:40--17:20 | [**Jipsen**](./abstracts/Jipsen.md) |
 
-† Day 3 times are different from Days 1 and 2.
+**Note:** Day 3 time slots are different from those of Days 1 and 2.
