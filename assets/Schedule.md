@@ -12,7 +12,7 @@
 | 12:15--12:40 | [Charlotte Aten](./abstracts/Aten.md)       | [Sylvia Silberger](./abstracts/Silberger.md) |
 |              | LUNCH                | LUNCH            |
 | 14:00--14:50 | [**Pálfy**](./abstracts/Palfy.md)            | [**Kearnes**](./abstracts/Kearnes.md)      |
-| 14:55--15:20 | [Bjørn Kjos-Hanssen](./abstracts/Kjos-Hanssen.md)  | [Branimir Seselja](./abstracts/Seselja.md) |
+| 14:55--15:20 | [Lei Liu](./abstracts/Liu.md)  | [Branimir Seselja](./abstracts/Seselja.md) |
 |              | coffee break         | coffee break     |
 | 15:50--16:40 | [**Valeriote**](./abstracts/Valeriote.md)        | [**Davey**](./abstracts/Davey.md)        |
 | 16:45--17:10 | [Boza Tasic](./abstracts/TasicAbstract.pdf)           | [David Clark](./abstracts/Clark.md)    |
@@ -34,6 +34,6 @@
 | 13:40--14:20 | [**McKenzie**](./abstracts/McKenzie.md)   |
 | 14:25--14:50 | [Paolo Aglianó](./abstracts/Agliano.md)  |
 |              | coffee break   |
-| 15:20--16:10 | [**Taylor**](./abstracts/Taylor.md)     |
-| 16:15--16:40 | [Paweł Idziak](./abstracts/Idziak.md) |
-| 16:45--17:25 | [**Jipsen**](./abstracts/Jipsen.md) |
+| 15:20--16:05 | [**Taylor**](./abstracts/Taylor.md)     |
+| 16:10--16:35 | [Paweł Idziak](./abstracts/Idziak.md) |
+| 16:40--17:20 | [**Jipsen**](./abstracts/Jipsen.md) |
