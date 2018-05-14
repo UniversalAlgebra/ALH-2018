@@ -21,9 +21,8 @@
 
 
 #### Day 3
-**Note altered time table on May 24** (the third and final day of the conference):
 
-| Time         | May 24         |
+| Time $^{†}$         | May 24         |
 | ---          | ---            |
 |  9:30--10:05 | [Kira Adaricheva](./abstracts/Adaricheva.md) |
 | 10:10--10:30 | [Gent Gjonbalaj](./abstracts/Gjonbalaj.md) |
@@ -37,3 +36,5 @@
 | 15:20--16:05 | [**Taylor**](./abstracts/Taylor.md)     |
 | 16:10--16:35 | [Paweł Idziak](./abstracts/Idziak.md) |
 | 16:40--17:20 | [**Jipsen**](./abstracts/Jipsen.md) |
+
+† Day 3 times are different from Days 1 and 2.
