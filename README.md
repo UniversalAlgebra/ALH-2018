@@ -22,33 +22,16 @@ May 22--24, 2018
 
 ---------------------------------------------------------
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Algebras and Lattices in Hawai’i](#algebras-and-lattices-in-hawaii)
-	- [Introduction](#introduction)
-	- [Program](#program)
-		- [Invited Speakers](#invited-speakers)
-	- [Contributed Talks](#contributed-talks)
-		- [Submission Information](#submission-information)
-		- [Submission Deadline](#submission-deadline)
-	- [Registration and Parking Information](#registration-and-parking-information)
-		- [Parking on UH campus](#parking-on-uh-campus)
-	- [Banquet](#banquet)
-	- [Accommodations](#accommodations)
-		- [On-campus](#on-campus)
-		- [Off-campus](#off-campus)
-			- [Two-Star Hotels](#two-star-hotels)
-			- [Three-Star Hotels](#three-star-hotels)
-			- [Four-Star Hotels](#four-star-hotels)
-			- [Five-Star hotels](#five-star-hotels)
-	- [Further Information](#further-information)
-	- [Organizers](#organizers)
-		- [Organizing Committee](#organizing-committee)
-		- [Local Organizers](#local-organizers)
-		- [Special Thanks To](#special-thanks-to)
-	- [Contact](#contact)
-
-<!-- /TOC -->
+- [Introduction](#introduction)
+- [Program](#program)
+- [Contributed Talks](#contributed-talks)
+- [Registration and Parking Information](#registration-and-parking-information)
+- [Banquet](#banquet)
+- [Accommodations](#accommodations)
+- [Further Information](#further-information)
+- [Organizers](#organizers)
+- [Contact](#contact)
 
 
 ------------------------------------------------------------
@@ -65,7 +48,7 @@ This is a conference celebrating three mathematicians who spent their careers at
 [Abstracts](./assets/Abstracts.md)
 
 
-### Invited Speakers
+** Invited Speakers**  
 + Brian Davey (La Trobe University)
 + Ralph Freese (University of Hawaii)
 + Peter Jipsen (Chapman University)
@@ -230,3 +213,5 @@ Future announcements will describe plans for special publications and travel arr
 -------------------------------------------------------------
  
 *Mahalo!*
+
+[Back to Top](#algebras-and-lattices-in-hawaii)
