@@ -1,5 +1,7 @@
 ### Schedule: ALH-2018, May 22-24, Honolulu
 
+**LOCATION OF ALL TALKS: [BILGER 335](https://goo.gl/maps/JzotBHZoDir)**
+
 #### Days 1 and 2
 
 | Time         | May 22               | May 23           |
