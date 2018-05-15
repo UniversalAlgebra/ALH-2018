@@ -24,6 +24,7 @@ May 22--24, 2018
 
 
 - [Introduction](#introduction)
+- [Invited Speakers](#invited-speakers)
 - [Program](#program)
 - [Contributed Talks](#contributed-talks)
 - [Registration and Parking Information](#registration-and-parking-information)
@@ -41,14 +42,7 @@ This is a conference celebrating three mathematicians who spent their careers at
 
 ---
 
-## Program
-
-[Schedule](./assets/Schedule.md)
-
-[Abstracts](./assets/Abstracts.md)
-
-
-** Invited Speakers**  
+## Invited Speakers  
 + Brian Davey (La Trobe University)
 + Ralph Freese (University of Hawaii)
 + Peter Jipsen (Chapman University)
@@ -61,6 +55,15 @@ This is a conference celebrating three mathematicians who spent their careers at
 + Walter Taylor (University of Colorado, Boulder)
 + Matthew Valeriote (McMaster University)
 + Ross Willard (University of Waterloo)
+
+---
+
+## Program
+
++ [Schedule](./assets/Schedule.md)
+
++ [Abstracts](./assets/Abstracts.md)
+
 
 
 ---
