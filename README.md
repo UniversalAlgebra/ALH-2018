@@ -16,6 +16,9 @@ https://universalalgebra.github.io/ALH-2018/
 
 **Venue.**
 The conference will be hosted by University of Hawai’i at Manoa, Honolulu, HI, USA.
+
+**All talks will take place in [BILGER 335](https://goo.gl/maps/JzotBHZoDir)**
+
  
 **Dates.**
 May 22--24, 2018
@@ -64,6 +67,7 @@ This is a conference celebrating three mathematicians who spent their careers at
 
 + [Abstracts](./assets/Abstracts.md)
 
+**All talks will take place in [BILGER 335](https://goo.gl/maps/JzotBHZoDir)**
 
 
 ---
