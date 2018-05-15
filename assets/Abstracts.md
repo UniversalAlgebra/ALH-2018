@@ -1,7 +1,5 @@
 ## Abstracts of ALH Talks
 
-
-
 - [Adaricheva, Kira](#adaricheva-kira)
 - [Aglianó, P.](#aglian-p)
 - [Aten, Charlotte](#aten-charlotte)
@@ -35,7 +33,7 @@
 **Abstract.**
 Starting from famous Malcev conference in Novosibirsk in 1989, the author describes the stride to approach the solution of Birkhoff-Malcev problem, where Ralph, JB and Bill all made their contribution. With JB Nation in particular, since R. Mckenzie's conference in 2002, it went into publishing uncountably many joint papers and finitely many chapters in the volume 2 of Lattice Theory: Special Topics and Applications (2016), edited by G.Grätzer and F. Wehrung. Surprisingly, the byproducts of this stride were as valuable as the the progress in Birkhoff-Malcev problem itself, bringing understanding to infinite convex geometries, and new applications in data science among others. 
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -67,7 +65,7 @@ Subdirectly irreducible Heyting algebras are easily described: they are exactly 
 
 We will explain how this result can be generalized to several classes of residuated (semi)lattices.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -84,7 +82,7 @@ The game of Rock-Paper-Scissors (RPS) involves two players simultaneously choosi
 
 It is folklore that the only "valid" RPS variants for two players use an odd number of items. Currently this is mentioned on the Wikipedia entry for Rock-Paper-Scissors without citation and with a reference to a collection of such games. In our language we have the following result. We give a proof of a more general statement.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -99,7 +97,7 @@ It is folklore that the only "valid" RPS variants for two players use an odd num
 **Abstract.** 
 Let $$\mathcal A$$ and $$\mathcal B$$ be idempotent varieties and suppose that the variety $$\mathcal A \vee \mathcal B$$ is congruence permutable. Then the Maltsev product $$\mathcal A \circ \mathcal B$$ is also congruence permutable.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -113,7 +111,7 @@ Let $$\mathcal A$$ and $$\mathcal B$$ be idempotent varieties and suppose that t
 
 **Abstract.**  Recent work has shown that randomizing algorithms drawn from the methods of evolutionary computation can efficiently find a term representing a given term operation on an idemprimal groupoid provided the groupoid has two other properties:  NSR and AC.  This work motivates a deeper study of these two properties which prove to be worthy of investigation quite apart from their application to these algorithms.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -127,7 +125,7 @@ Let $$\mathcal A$$ and $$\mathcal B$$ be idempotent varieties and suppose that t
 
 **Abstract.** The problem of SH-approximation of a semigroup with respect to the predicate of a possible belonging of an element to a subsemigroup is considered. Several explicit conditions for SH-approximation with respect to this predicate are presented. We constructed a special semigroup acting the role of a minimal SH-approximation of semigroup for many predicates. This semigroup has neither identity nor additive identity. It contains an infinite number of idempotents, and the presence of each idempotent is mandatory. 
   
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -151,7 +149,7 @@ I have published one paper with each of Bill, JB and Ralph.
 
 The talk will be based around the results in these papers and developments (mainly in the theory of natural dualities) related to them.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -166,7 +164,7 @@ The talk will be based around the results in these papers and developments (main
 **Abstract.**
 Convex geometry is a closure space $$(G,\phi)$$ with the anti-exchange property. A classical result of Edelman and Jamison (1985) claims that every finite convex geometry is a join of several linear sub-geometries, and the smallest number of such sub-geometries necessary for representation is called a convex dimension. In our work we find necessary and sufficient conditions on a closure operator $$\phi$$ of convex geometry $$(G,\phi)$$ so that its convex dimension is 2, equivalently, they are represented by segments on a line. These conditions can be checked in polynomial time in two parameters: the size of the base set $$|G|$$ and the size of the implicational basis of $$(G,\phi)$$.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -183,7 +181,7 @@ Convex geometry is a closure space $$(G,\phi)$$ with the anti-exchange property.
 The talk is intended to present latest achievements in searching structural algebraic conditions 
 a finite algebra $$A$$ has to satisfy in order to have a polynomial time algorithm that decides if an equation $$s(x_1,\dots, x_n) = t(x_1,\dots, x_n)$$, where $$s$$ and $$t$$ are polynomials over $$A$$, has a solution in $$A$$. 
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -198,7 +196,7 @@ a finite algebra $$A$$ has to satisfy in order to have a polynomial time algorit
 **Abstract.**
 In this talk I will cover some of the highlights of the many deep and influential results that were discovered by Ralph Freese, Bill Lampe and JB Nation. Be prepared for a whirlwind tour of the classics spanning half a century of hits that reverberated around the globe and continue to delight and inspire mathematicians across space and time.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -217,7 +215,7 @@ class-$$k$$ supernilpotence = (class-$$\ell$$ nilpotence + $$\varepsilon$$)
 
 holds. I will speak about this equation.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -232,7 +230,7 @@ holds. I will speak about this equation.
 **Abstract.**
 Champarnaud and Pin (1989) found the maximum complexity, in terms of finite automata, of a Boolean function on n variables. We study the special case of monotone functions. It is inspired by an application to complexity of financial securities. Mathematically we relate it to a certain lattice homomorphism problem.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -246,7 +244,7 @@ Champarnaud and Pin (1989) found the maximum complexity, in terms of finite auto
 
 **Abstract.** Theorems and People, Stories and Memories.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -261,7 +259,7 @@ Champarnaud and Pin (1989) found the maximum complexity, in terms of finite auto
 **Abstract.** 
 I will talk about the impact of the work of Bill Lampe, Ralph Freese, and JB Nation on equational logic.  While this talk will set some  well-known results in the context of equational logic and will pose some open problems, the talk will not explain how to lecture in barefeet, how to give your doctoral students the fatherly advice they need on the streets of Mexico City, where to go on your honeymoon, nor the relationship between fluid consumption and mathematical progress. But I will talk about natural undecidable equational theories, finite height (or depth, really), inherently nonfinitely based lattices, and zippers. 
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -282,7 +280,7 @@ One would hope that these problems would admit an algebraic, or geometric, or co
 This note is based on a talk given to the Courant Institute geometry seminar in October 2017.
 The author appreciates the hospitality and encouragement from the participants of the seminar.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -299,7 +297,7 @@ On the poster of the conference we see Bill, JB and Ralph looking at a blackboar
 
 Although I am not able to solve the representation problem for this lattice, I will show how to reduce the problem to representing finite lattices as intervals in subgroup lattices of finite groups of two particular types: (1) almost simple groups; (2) twisted wreath products with peculiar properties. This is based on works of Baddeley, Lucchini, Börner, Aschbacher, and Shareshian. Twisted wreath products were introduced by B. H. Neumann in 1963. I will indicate how naturally this group theoretic construction arises and what relevance it has for the finite congruence lattice representation problem.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -313,7 +311,7 @@ Although I am not able to solve the representation problem for this lattice, I w
 
 **Abstract.** Starting with $$\Omega$$-sets where $$\Omega$$ is a complete lattice, we introduce the notion of an $$\Omega$$-algebra.  This is a classical algebra equipped  with an $$\Omega$$-valued equality replacing the ordinary one. In these new structures identities hold as appropriate lattice-theoretic formulas.  Our investigation is related to weak congruences of the basic algebra to which a generalized equality is associated. Namely every $$\Omega$$-algebra uniquely determines a closure system in the lattice of weak congruences of the basic algebra. By this correspondence we formulate a representation theorem for $$\Omega$$-algebras.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -328,7 +326,7 @@ Although I am not able to solve the representation problem for this lattice, I w
 **Abstract.**
 For $$L$$ a finite simple lattice, we can examine the class of topological spaces that can support a lattice (with continuous operations) that admits $$L$$ as a 0,1-sublattice. We consider this problem for various modular $$L$$, such as  $$M_n$$ ($$n\geq 3$$) and possibly $$M_{p,q}$$. Also a brief look at the distributive case. So far our spaces are small finite geometric examples, very user-friendly.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
 
 ---
 
@@ -349,4 +347,4 @@ There exist "unusual" commutators, all of which coincide with the usual commutat
 
 In this lecture I will try to connect these results to greed, Blackstone growlers, and Bill's personal hygiene.
 
-[Back to Top](#abstract-of-alh-talks)
+[Back to Top](#abstracts-of-alh-talks)
