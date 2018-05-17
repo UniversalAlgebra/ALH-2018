@@ -11,7 +11,7 @@
 - [Idziak, Paweł M.](#idziak-pawe-m)
 - [Jipsen, Peter](#jipsen-peter)
 - [Kearnes, Keith](#kearnes-keith)
-- [Kehayopulu, Niovi](#niovi-kehayopulu)
+- [Kehayopulu, Niovi](#kehayopulu-niovi)
 - [Liu, Lei](#liu-lei)
 - [McKenzie, Ralph](#mckenzie-ralph)
 - [McNulty, George F.](#mcnulty-george-f)
