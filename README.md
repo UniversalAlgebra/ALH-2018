@@ -93,7 +93,7 @@ Applications for contributed talks begin in November 2017 via EasyChair.  Please
 ---
 
 ## Registration and Parking Information
-Registration for the conference will be from 5pm to 7pm on Monday, May 21, outside of Keller Hall Room 319. 
+Registration for the conference will be from 5pm to 7pm on Monday, May 21, outside of Keller Hall Room 401A (where there will be a low-key reception---some beer, wine, cheese and crackers).
 
 The registration fee is $110, which includes the banquet at Willows on ~~Wednesday~~ Tuesday, May 22. If you bring a spouse who wants to attend the banquet, the fee will be increased by $60 to $170 total. 
 
