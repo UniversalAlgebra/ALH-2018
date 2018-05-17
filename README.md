@@ -127,12 +127,6 @@ The banquet is on ~~Wednesday~~ Tuesday, May 22, 7:00 pm at [Willows](http://wil
 
 
 
-If you have any questions concerning your travel to Hawaii, your accommodation or request related to your planned presentation, please, do not hesitate to send us a message. The weather in Hawaii is usually very pleasant, and many of you heard of Kilauea eruption on the Big Island. We expect the flow of tourists to increase in the coming days. If you did not see lava before, maybe it is your big chance to see it when visiting Big Island after the conference.
-
-
-
-Wishing you a good end of academic year and a smooth travel to the mid-point of Pacific,
-
 -----
 
 ## Accommodations
@@ -193,7 +187,10 @@ driver's license at check-in.
 -------------------------------------------------------------
 
 ## Further Information
-Future announcements will describe plans for special publications and travel arrangements. If you are interested in participating, please send a short message to the contact email below.
+
+If you have any questions concerning your travel to Hawaii, your accommodation or request related to your planned presentation, please, do not hesitate to send us a message.
+
+The weather in Hawaii is warm and usually pleasant. You may have heard of Kilauea erupting on the Big Island, which is about 200 miles away from Oahu (where the conference will be held).  So far, the volcano has had no impact on Oahu and we don't forsee any problems arising at UH Manoa from volcanic activity on the Big Island.
  
 -------------------------------------------------------------
 
