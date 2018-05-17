@@ -95,7 +95,7 @@ Applications for contributed talks begin in November 2017 via EasyChair.  Please
 ## Registration and Parking Information
 Registration for the conference will be from 5pm to 7pm on Monday, May 21, outside of Keller Hall Room 319. 
 
-The registration fee is $110, which includes the banquet at Willows on Wednesday, May 22. If you bring a spouse who wants to attend the banquet, the fee will be increased by $60 to $170 total. 
+The registration fee is $110, which includes the banquet at Willows on ~~Wednesday~~ Tuesday, May 22. If you bring a spouse who wants to attend the banquet, the fee will be increased by $60 to $170 total. 
 
 **Please, pay the fees in cash when you register.**
 
@@ -122,7 +122,7 @@ at (808) 944-7805 and ask to have a parking pass reserved for you. These passes 
 ---
 
 ## Banquet
-The banquet is on Wednesday, May 23, at 7:00 pm at [Willows](http://willowshawaii.com/) [http://willowshawaii.com/](http://willowshawaii.com/)
+The banquet is on ~~Wednesday~~ Tuesday, May 22, 7:00 pm at [Willows](http://willowshawaii.com/) [http://willowshawaii.com/](http://willowshawaii.com/)
 
 
 

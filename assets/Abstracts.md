@@ -11,12 +11,15 @@
 - [Idziak, Paweł M.](#idziak-pawe-m)
 - [Jipsen, Peter](#jipsen-peter)
 - [Kearnes, Keith](#kearnes-keith)
+- [Kehayopulu, Niovi](#niovi-kehayopulu)
 - [Liu, Lei](#liu-lei)
 - [McKenzie, Ralph](#mckenzie-ralph)
 - [McNulty, George F.](#mcnulty-george-f)
 - [Nation, J. B.](#nation-j-b)
 - [Pálfy, Péter Pal](#plfy-pter-pal)
 - [Seselja, Branimir](#seselja-branimir)
+- [Silberger, Sylvia](#silberger-sylvia)
+- [Valeriote, Matthew](#valeriote-matthew)
 - [Taylor, Walter](#taylor-walter)
 - [Willard, Ross](#willard-ross)
 
@@ -219,6 +222,70 @@ holds. I will speak about this equation.
 
 ---
 
+### Kehayopulu, Niovi
+
+**Title.** How we pass from ordered semigroups to ordered hypersemigroups
+
+**Author.** Niovi Kehayopulu
+
+**Institution.** University of Athens, Department of Mathematics, 15784 Panepistimiopolis, Greece
+
+*Dedicated to Professor J. B. Nation*
+
+**Abstract.** We have seen in [N. Kehayopulu, Lobachevskii J. Math. 39, no. 1
+(2018), 121–128] the way we pass from semigroups to hypersemigroups. The aim
+of the present paper is to show the way we pass from ordered semigroups to
+ordered hypersemigroups.
+
+An hypersemigroup is a nonempty set H with an "operation"
+◦ : H × H → P ∗ (H) | (a, b) → a ◦ b on H called hyperoperation (as it maps to
+each couple a, b of elements of S a nonempty subset a ◦ b of S) and an operation
+∗ : P ∗ (H) × P ∗ (H) → P ∗ (H) | (A, B) → A ∗ B on P ∗ (H) (induced by the
+operation of H) such that (1) A ∗ B = (a ◦ b) for every A, B ∈ P ∗ (H)
+(a,b)∈ A×B and (2) {a} ∗ (b ◦ c) = (a ◦ b) ∗ {c} for every a, b, c ∈ H (P ∗ (H) denotes the set of nonempty subsets of H). If H is an hypersemigroup and “≤” an order
+relation on H, we denote by (A] the subset of H defined by (A] := {t ∈ H | t ≤
+a for some a ∈ A}; and by “≼” the relation on P ∗ (H) defined by
+
+$$≼:= \{(A, B) | ∀ a ∈ A ∃ b ∈ B \text{ such that }(a, b) ∈≤ \}.$$
+
+So, for A, B ∈ P ∗ (H), we write A ≼ B if for every a ∈ A there exists b ∈ B such
+that a ≤ b. This is a reflexive and transitive relation on P ∗ (H), that is, a preorder
+on P ∗ (H). An hypersemigroup (H, ◦) is called an ordered hypersemigroup if there
+exists an order relation "≤" on H such that a ≤ b implies a ◦ c ≼ b ◦ c andc ◦ a ≼ c ◦ b for every c ∈ H; which means that if a ≤ b, then for every u ∈ a ◦ c
+there exists v ∈ b ◦ c such that u ≤ v and for every u ∈ c ◦ a there exists
+v ∈ c ◦ b such that u ≤ v. If (H, ◦, ≤) is an ordered hypersemigroup, a nonempty
+subset A of H is called a left (resp. right) ideal of H if (1) H ∗ A ⊆ A (resp.
+A ∗ H ⊆ A) and (2) if a ∈ A and H ∋ b ≤ a implies b ∈ A; it is called a
+quasi-ideal of H if (1) (A ∗ H] ∩ (H ∗ A] ⊆ A and (2) if a ∈ A and H ∋ b ≤ a,
+then b ∈ A. Recall that H ∗ A ⊆ A is equivalent to h ◦ a ⊆ A for every h ∈ H
+and every a ∈ A. A nonempty subset A of H is called idempotent if (A ∗ A] = A.
+
+We introduce the concept of regular ordered hypersemigroups, as follows: An
+ordered hypersemigroup H is called regular if for every a ∈ H there exists x ∈ H
+such that {a} ≼ (a ◦ x) ∗ {a}; which means that for every a ∈ H there exist
+x, t ∈ H such that t ∈ (a ◦ x) ∗ {a} and a ≤ t. Some well known results on
+semigroups or on ordered semigroups due to Iséki, Lajos and Szász, Calais and
+Kehayopulu are examined in case of ordered hypersemigroups. Based on the
+result by Calais [Demi-groupes quasi-inversifs, C.R. Acad. Sci. Paris 252 (1961),
+2357–2359], for example, we prove that an ordered hypersemigroup H is regular
+if and only if the right ideals and the left ideals of H are idempotent and for
+every right ideal A and every left ideal B of H, the set (A ∗ B] is a quasi-ideal of
+H. The corresponding results on hypersemigroups (without order), can be also
+obtained as application of the results of the present paper and this is because
+every hypersemigroup endowed with the equality relation “=” (that is, (x, y) ∈≤
+⇔ x = y) is an ordered hypersemigroup. We tried to use sets instead of elements
+in our investigation, to show the pointless character of the results (in the same
+spirit with the abstract formulation of general topology –the so-called topology
+without points– initiated by Koutský and Nöbeling); illustrative examples using
+a table of multiplication (: the hyperoperation) and an order relation are given
+at the end of the paper. The paper serves as an example to show the way we
+pass from ordered semigroups to ordered hypersemigroups and its aim is to give
+the right information concerning this structure.
+
+[Back to Top](#abstracts-of-alh-talks)
+
+---
+
 ### Liu, Lei 
 
 **Title.** Automatic complexity of monotone Boolean functions
@@ -284,6 +351,7 @@ The author appreciates the hospitality and encouragement from the participants o
 
 ---
 
+
 ### Pálfy, Péter Pal 
 
 **Title.** The role of twisted wreath products in the finite congruence lattice problem
@@ -310,6 +378,48 @@ Although I am not able to solve the representation problem for this lattice, I w
 **Institution.** Faculty of Sciences, University of Novi Sad, Serbia
 
 **Abstract.** Starting with $$\Omega$$-sets where $$\Omega$$ is a complete lattice, we introduce the notion of an $$\Omega$$-algebra.  This is a classical algebra equipped  with an $$\Omega$$-valued equality replacing the ordinary one. In these new structures identities hold as appropriate lattice-theoretic formulas.  Our investigation is related to weak congruences of the basic algebra to which a generalized equality is associated. Namely every $$\Omega$$-algebra uniquely determines a closure system in the lattice of weak congruences of the basic algebra. By this correspondence we formulate a representation theorem for $$\Omega$$-algebras.
+
+[Back to Top](#abstracts-of-alh-talks)
+
+---
+
+### Silberger, Sylvia
+
+**Title.** Sums of finitely many distinct reciprocals
+
+**Speaker.** Sylvia Silberger
+
+**Institution.** Hofstra University, Hemstead, NY
+
+**Abstract.** Let $$\mathcal F$$ denote the family of all finite nonempty $$S\subseteq{\mathbb N}:=\{1,2,\ldots\}$$, and let $$\mathcal F(X):=\mathcal F \cap \{S:S\subseteq X\}$$ when $$X\subseteq{\mathbb N}$$. 
+In this talk we treat the function $$\sigma:{\cal F}\rightarrow{\mathbb Q}^+$$ given by $$\sigma:S\mapsto\sigma S :=\sum\{1/x:x\in S\}$$, and the function $$\delta:{\cal F}\rightarrow{\mathbb N}$$ 
+defined by $$\sigma S = \nu S/\delta S$$ where the integers $$\nu S$$ and $$\delta S$$ are coprime. 
+
+We then discuss the following results.
+
+**Theorem 1.1.**   
+For each $$r\in{\mathbb Q}^+$$, there exists an infinite pairwise disjoint subfamily $${\cal H}_r\subseteq{\cal F}$$ such that $$r=\sigma S$$ for all $$S\in{\cal H}_r$$. 
+
+**Theorem 1.2.**  
+Let $$X$$ be a pairwise coprime set of positive integers. Then $$\sigma\upharpoonright \mathcal F (X)$$ and $$\delta\upharpoonright \mathcal F (X)$$ are injective. Also, $$\sigma C\in{\mathbb N}$$ for 
+$$C\in{\cal F}(X)$$ only if $$C=\{1\}$$.
+
+[Back to Top](#abstracts-of-alh-talks)
+
+---
+
+### Valeriote, Matthew
+
+**Title.** UACalc and testing for Maltsev conditions
+
+**Speaker.** Matthew Valeriote
+
+**Institution.** Department of Mathematics, McMaster University, Canada
+
+**Abstract.**
+In the 1990's several researchers, including Ralph Freese, Emil Kiss, and the speaker, produced various versions of a software package that is now known as UACalc.  In addition to being a very useful research tool for investigating finite algebras (I can't recall the last time that I had to compute the labelled congruence lattice of a finite algebra by hand), it also raised several interesting questions about the computational complexity of testing for certain properties of finite algebras and the varieties that they generate.
+
+I plan to talk about the role of the UH group in the development of computational tools for studying algebras and lattices and then will focus on a set of questions and results about the complexity of testing for certain Maltsev conditions that were in part motivated by using UACalc and that have helped to expand the scope of the calculator.
 
 [Back to Top](#abstracts-of-alh-talks)
 
