@@ -301,6 +301,8 @@ We will also discuss some previously unnoticed features of their construction.
 
 My hope in giving this talk is that you will actually read the paper that Ross, Keith, and I are writing, and that this talk will make it easier for you to do so.
 
+[Back to Top](#abstracts-of-alh-talks)
+
 ---
 
 ### Liu, Lei 
