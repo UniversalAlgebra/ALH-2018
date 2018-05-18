@@ -10,7 +10,7 @@
 | 9:30--10:15  | [**McNulty**](./abstracts/McNulty.md)          | [**Willard**](./abstracts/Willard.md)      |
 | 10:20--10:45 | [Clifford Bergman](./abstracts/Bergman.md)     | [Dang Van Vinh](./abstracts/Dang.md)    |
 |              | coffee break         | coffee break     |
-| 11:30--12:10 | **Freese**           | **Lampe**        |
+| 11:30--12:10 | **Freese**           | [**Lampe**](./abstracts/Lampe.md)        |
 | 12:15--12:40 | [Charlotte Aten](./abstracts/Aten.md)       | [Sylvia Silberger](./abstracts/Silberger.md) |
 |              | LUNCH                | LUNCH            |
 | 14:00--14:50 | [**Pálfy**](./abstracts/Palfy.md)            | [**Kearnes**](./abstracts/Kearnes.md)      |

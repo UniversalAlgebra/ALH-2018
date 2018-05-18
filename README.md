@@ -207,7 +207,6 @@ The weather in Hawaii is warm and usually pleasant. You may have heard of Kilaue
  
 ### Special Thanks To
 + [Sue Hasegawa](mailto:sue@math.hawaii.edu) (University of Hawaii, Manoa, HI)  
-+ [East-West Center Housing Office](https://www.eastwestcenter.org/about-ewc/housing/conference-housing)
 
 ---
 

@@ -12,6 +12,7 @@
 - [Jipsen, Peter](#jipsen-peter)
 - [Kearnes, Keith](#kearnes-keith)
 - [Kehayopulu, Niovi](#kehayopulu-niovi)
+- [Lampe, Bill](#lampe-bill)
 - [Liu, Lei](#liu-lei)
 - [McKenzie, Ralph](#mckenzie-ralph)
 - [McNulty, George F.](#mcnulty-george-f)
@@ -283,6 +284,22 @@ pass from ordered semigroups to ordered hypersemigroups and its aim is to give
 the right information concerning this structure.
 
 [Back to Top](#abstracts-of-alh-talks)
+
+---
+
+### Lampe, Bill
+
+**Title.** Revisiting Grätzer-Schmidt
+
+**Speaker.** Bill Lampe
+
+**Abstract.** The theorems Rose Willard will talk/has talked about each require a special congruence representation. Our congruence representations will be built using variations on the techniques pioneered by Grätzer and Schmidt. So we now proceed to revisit those techniques and try to gain some further insight into how they work.
+
+We will present their constructions in a slightly new way which makes many of the details easier and makes many of them disappear. Although we will present the construction in a slightly new way, the algebras at the end of either way are isomorphic.
+
+We will also discuss some previously unnoticed features of their construction.
+
+My hope in giving this talk is that you will actually read the paper that Ross, Keith, and I are writing, and that this talk will make it easier for you to do so.
 
 ---
 
