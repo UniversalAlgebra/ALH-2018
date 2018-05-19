@@ -30,7 +30,7 @@
 | 10:10--10:30 | [Gent Gjonbalaj](./abstracts/Gjonbalaj.md) |
 |              | coffee break   |
 | 11:00--11:50 | [**Nation**](./abstracts/Nation.md)    |
-| 11:55--12:20 | [Mick Adams](./abstracts/Adams.pdf)     |
+| 11:55--12:20 | [Joy Nishida](./abstracts/Nishida.md)     |
 |              | LUNCH          |
 | 13:40--14:20 | [**McKenzie**](./abstracts/McKenzie.md)   |
 | 14:25--14:50 | [Paolo Aglianó](./abstracts/Agliano.md)  |
