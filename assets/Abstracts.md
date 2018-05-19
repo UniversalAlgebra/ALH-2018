@@ -7,6 +7,7 @@
 - [Clark, David M.](#clark-david-m)
 - [Dang, V. V.](#dang-v-v)
 - [Davey, Brian](#davey-brian)
+- [DeMeo, William](#demeo-william)
 - [Gjonbalaj, Gent](#gjonbalaj-gent)
 - [Idziak, Paweł M.](#idziak-pawe-m)
 - [Jipsen, Peter](#jipsen-peter)
@@ -157,6 +158,21 @@ The talk will be based around the results in these papers and developments (main
 [Back to Top](#abstracts-of-alh-talks)
 
 ---
+
+### DeMeo, William
+
+**Title.** TBA
+
+**Speaker.** William DeMeo
+
+**Institution.** Department of Mathematics, University of Colorado, Boulder.
+
+**Abstract.** TBA
+
+[Back to Top](#abstracts-of-alh-talks)
+
+---
+
 
 ### Gjonbalaj, Gent 
 

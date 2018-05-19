@@ -17,7 +17,7 @@
 | 14:55--15:20 | [Lei Liu](./abstracts/Liu.md)  | [Branimir Seselja](./abstracts/Seselja.md) |
 |              | coffee break         | coffee break     |
 | 15:50--16:40 | [**Valeriote**](./abstracts/Valeriote.md)        | [**Davey**](./abstracts/Davey.md)        |
-| 16:45--17:10 | [Boza Tasic](./abstracts/TasicAbstract.pdf)           | [David Clark](./abstracts/Clark.md)    |
+| 16:45--17:10 | [William DeMeo](./abstracts/DeMeo.md)  | [David Clark](./abstracts/Clark.md)    |
 |              |                      |                  |
 | 19:00--21:00 |    Dinner @ Willows         |  |
 
