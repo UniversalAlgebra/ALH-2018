@@ -16,6 +16,7 @@
 - [Liu, Lei](#liu-lei)
 - [McKenzie, Ralph](#mckenzie-ralph)
 - [McNulty, George F.](#mcnulty-george-f)
+- [Nishida, Joy](#nishida-joy)
 - [Nation, J. B.](#nation-j-b)
 - [Pálfy, Péter Pal](#plfy-pter-pal)
 - [Seselja, Branimir](#seselja-branimir)
@@ -368,6 +369,8 @@ The author appreciates the hospitality and encouragement from the participants o
 [Back to Top](#abstracts-of-alh-talks)
 
 ---
+
+### Nishida, Joy
 
 **Title.** Primer of Quasivariety Lattices
 
