@@ -124,10 +124,27 @@ at (808) 944-7805 and ask to have a parking pass reserved for you. These passes 
 ## Banquet
 The banquet is on ~~Wednesday~~ Tuesday, May 22, 7:00 pm at [Willows](http://willowshawaii.com/) [http://willowshawaii.com/](http://willowshawaii.com/)
 
+### Options for Wednesday and Thursday evening
+
+Venues with Hawaiian music, esp. for people visiting Hawaii first time.
+
+**Traditional Hawaiian music with food**
++ Roy's Hawaii Kai (Jimmy Funai)
++ Duke's Waikiki (Henry Kapono)
++ Outrigger Reef Kanikapila Grille
++ Neiman Marcus (Brian Chang on Thursday)
++ Kona Brewing Company in Koko Marina (may want to avoid on Sundays if Uncle Len plays and it's packed)
++ Restaurant in Kahala Mall next to Whole Foods
+
+**Local food, no music**
++ 12th Avenue grill
+
+**Live music suggestions** (check the events calendar)
++ Royal Hawaiian shopping center
++ International market place
 
 
-
------
+----
 
 ## Accommodations
 

@@ -6,7 +6,7 @@
 
 | Time         | May 22               | May 23           |
 | ---          | ---                  |---               |
-| 9:00--9:30   | registration/opening |                  |
+| 9:00--9:30   | Assoc Dean Andy Taylor |                  |
 | 9:30--10:15  | [**McNulty**](./abstracts/McNulty.md)          | [**Willard**](./abstracts/Willard.md)      |
 | 10:20--10:45 | [Clifford Bergman](./abstracts/Bergman.md)     | [Dang Van Vinh](./abstracts/Dang.md)    |
 |              | coffee break         | coffee break     |
