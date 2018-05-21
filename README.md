@@ -133,7 +133,7 @@ Venues with Hawaiian music, esp. for people visiting Hawaii first time.
 + Duke's Waikiki (Henry Kapono)
 + Outrigger Reef Kanikapila Grille
 + Neiman Marcus (Brian Chang on Thursday)
-+ Kona Brewing Company in Koko Marina (may want to avoid on Sundays if Uncle Len plays and it's packed)
++ Kona Brewing Company in Koko Marina
 + Restaurant in Kahala Mall next to Whole Foods
 
 **Local food, no music**
