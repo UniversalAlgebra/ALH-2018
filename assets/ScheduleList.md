@@ -88,7 +88,7 @@
 
 ---
 
-**Session 3.1.** Chair: Kathy J-T
+**Session 3.1.** Chair: Kathy Johnson-Thom
 
 | Time         | May 24         |
 | ---          | ---            |
