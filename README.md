@@ -65,6 +65,8 @@ This is a conference celebrating three mathematicians who spent their careers at
 
 + [Schedule](./assets/Schedule.md)
 
++ [List of Sessions](./assets/ScheduleList.md)
+
 + [Abstracts](./assets/Abstracts.md)
 
 **All talks will take place in [BILGER 335](https://goo.gl/maps/JzotBHZoDir)**
