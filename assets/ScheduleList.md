@@ -29,7 +29,8 @@
 | Time         | May 22               |
 | ---          | ---                  |
 | 14:00--14:50 | [**Pálfy**](./abstracts/Palfy.md)            |
-| 14:55--15:20 | [Lei Liu](./abstracts/Liu.md)  |
+| 14:55--15:20 | [Bjørn Kjos-Hanssen](./abstracts/Kjos-Hanssen.md)  |
+
 
 ---
 
