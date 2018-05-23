@@ -1,4 +1,4 @@
-## Abstracts of ALH Talks
+## Slides from ALH Talks
 
 - [Adaricheva, Kira](slides/adaricheva.pdf)
 - [Aglianó, P.](slides/agliano.pdf)
