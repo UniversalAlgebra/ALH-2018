@@ -14,7 +14,7 @@
 - [Kearnes, Keith](#kearnes-keith)
 - [Kehayopulu, Niovi](#kehayopulu-niovi)
 - [Lampe, Bill](#lampe-bill)
-- [Liu, Lei](#liu-lei)
+- [Kjos-Hanssen, Bjørn](#kjos-hanssen-bjrn)
 - [McKenzie, Ralph](#mckenzie-ralph)
 - [McNulty, George F.](#mcnulty-george-f)
 - [Nishida, Joy](#nishida-joy)
@@ -240,6 +240,21 @@ holds. I will speak about this equation.
 
 ---
 
+### Kjos-Hanssen, Bjørn
+
+**Title.** Automatic complexity of monotone Boolean functions
+
+**Speaker.** Bjørn Kjos-Hanssen
+
+**Institution.** Department of Mathematics, University of Hawai'i, HI
+
+**Abstract.**
+Champarnaud and Pin (1989) found the maximum complexity, in terms of finite automata, of a Boolean function on n variables. We study the special case of monotone functions. It is inspired by an application to complexity of financial securities. Mathematically we relate it to a certain lattice homomorphism problem.
+
+[Back to Top](#abstracts-of-alh-talks)
+
+---
+
 ### Kehayopulu, Niovi
 
 **Title.** How we pass from ordered semigroups to ordered hypersemigroups
@@ -321,11 +336,11 @@ We will also discuss some previously unnoticed features of their construction.
 
 ---
 
-### Liu, Lei 
+### Kjos-Hanssen, Bjørn
 
 **Title.** Automatic complexity of monotone Boolean functions
 
-**Speaker.** Lei Liu
+**Speaker.** Bjørn Kjos-Hanssen
 
 **Institution.** Department of Mathematics, University of Hawai'i, HI
 
