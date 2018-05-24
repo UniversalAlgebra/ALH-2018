@@ -10,11 +10,11 @@
 | 9:30--10:15  | [**McNulty**](./abstracts/McNulty.md)          | [**Willard**](./abstracts/Willard.md)      |
 | 10:20--10:45 | [Clifford Bergman](./abstracts/Bergman.md)     | [Dang Van Vinh](./abstracts/Dang.md)    |
 |              | coffee break         | coffee break     |
-| 11:30--12:10 | **Freese**           | [**Lampe**](./abstracts/Lampe.md)        |
+| 11:30--12:10 | **Freese**           | [Paolo Aglianó](./abstracts/Agliano.md)   |
 | 12:15--12:40 | [Charlotte Aten](./abstracts/Aten.md)       | [Sylvia Silberger](./abstracts/Silberger.md) |
 |              | LUNCH                | LUNCH            |
 | 14:00--14:50 | [**Pálfy**](./abstracts/Palfy.md)            | [**Kearnes**](./abstracts/Kearnes.md)      |
-| 14:55--15:20 | [Lei Liu](./abstracts/Liu.md)  | [Branimir Seselja](./abstracts/Seselja.md) |
+| 14:55--15:20 | [Bjørn Kjos-Hanssen](./abstracts/Kjos-Hanssen.md)  | [Branimir Seselja](./abstracts/Seselja.md) |
 |              | coffee break         | coffee break     |
 | 15:50--16:40 | [**Valeriote**](./abstracts/Valeriote.md)        | [**Davey**](./abstracts/Davey.md)        |
 | 16:45--17:10 | [William DeMeo](./abstracts/DeMeo.md)  | [David Clark](./abstracts/Clark.md)    |
@@ -33,7 +33,7 @@
 | 11:55--12:20 | [Joy Nishida](./abstracts/Nishida.md)     |
 |              | LUNCH          |
 | 13:40--14:20 | [**McKenzie**](./abstracts/McKenzie.md)   |
-| 14:25--14:50 | [Paolo Aglianó](./abstracts/Agliano.md)  |
+| 14:25--14:50 | [**Lampe**](./abstracts/Lampe.md)      |
 |              | coffee break   |
 | 15:20--16:05 | [**Taylor**](./abstracts/Taylor.md)     |
 | 16:10--16:35 | [Paweł Idziak](./abstracts/Idziak.md) |

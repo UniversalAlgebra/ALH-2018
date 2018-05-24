@@ -62,7 +62,7 @@
 
 | Time         | May 22               |
 | ---          | ---                  |
-| 11:30--12:10 | [**Lampe**](./abstracts/Lampe.md)        | 
+| 11:30--12:10 | [Paolo Aglianó](./abstracts/Agliano.md)  | 
 | 12:15--12:40 | [Sylvia Silberger](./abstracts/Silberger.md) |
 
 ---
@@ -120,7 +120,7 @@
 | Time         | May 24         |
 | ---          | ---            |
 | 13:40--14:20 | [**McKenzie**](./abstracts/McKenzie.md)   |
-| 14:25--14:50 | [Paolo Aglianó](./abstracts/Agliano.md)  |
+| 14:25--14:50 |[**Lampe**](./abstracts/Lampe.md)         |
 
 ---
 
