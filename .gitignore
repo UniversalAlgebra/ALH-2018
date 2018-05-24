@@ -3,3 +3,5 @@ email-to-wehrung.txt
 *.log
 *.aux
 .stack-work/
+assets/abstracts/*.pdf
+assets/abstracts/*.tex
