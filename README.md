@@ -71,7 +71,8 @@ This is a conference celebrating three mathematicians who spent their careers at
 
 + [Slides](./assets/Slides.md)
 
-+ [Proceedings](./assets/ALH-2018-proceedings-6x9.pdf)
++ [Proceedings pdf](./assets/ALH-2018-proceedings-6x9.pdf)  
+  <a href="http://www.lulu.com/commerce/index.php?fBuyContent=22805798"><img src="http://static.lulu.com/images/services/buy_now_buttons/en/book.gif?20180522063120" border="0" alt="Purchase a hard copy from Lulu."></a> 
 
 **All talks will take place in [BILGER 335](https://goo.gl/maps/JzotBHZoDir)**
 
