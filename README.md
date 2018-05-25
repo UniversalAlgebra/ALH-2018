@@ -67,9 +67,11 @@ This is a conference celebrating three mathematicians who spent their careers at
 
 + [List of Sessions](./assets/ScheduleList.md)
 
-+ [Abstracts](./assets/Abstracts.md)
++ [Abstracts](./assets/Abstracts.md) ([pdf](./assets/Abstracts.pdf))
 
 + [Slides](./assets/Slides.md)
+
++ [Proceedings](./assets/ALH-2018-proceedings-6x9.pdf)
 
 **All talks will take place in [BILGER 335](https://goo.gl/maps/JzotBHZoDir)**
 
