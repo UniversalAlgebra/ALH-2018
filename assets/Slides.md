@@ -3,7 +3,7 @@
 - Adaricheva, Kira  [Well known and little known Nation](slides/adaricheva.pdf)
 - Aglianó, P. [Splitting residuated (semi)lattices](slides/agliano.pdf) 
 - Aten, Charlotte [Multiplayer Rock-Paper-Scissors](slides/aten.pdf) 
-- Bergman, Clifford **Joins and Maltsev Products of Congruence Permutable Varieties** (chalk talk)
+- Bergman, Clifford [Joins and Maltsev Products of Congruence Permutable Varieties](abstracts/bergman.md) (chalk talk)
 - Clark, David M. [Asymptotic Properties of Finite Groupoids](slides/clark.pdf) 
 - Dang, V. V. [Minimal SH-approximation of semigroups](slides/dang.pdf) 
 - Davey, Brian [A Tale of Three Papers: a beautiful theorem, four open problems, a surprising connection](slides/davey.pdf) 
@@ -18,7 +18,7 @@
 - Kjos-Hanssen, Bjørn [Automatic complexity of monotone Boolean functions](slides/kjos-hanssen.pdf) 
 - Lampe, Bill (awaiting slides) 
  <!-- [Revisiting Grätzer-Schmidt](slides/lampe.pdf)  -->
-- McKenzie, Ralph **Lattice Theory in Hawaii:  Bill, JB and Ralph** (chalk talk)
+- McKenzie, Ralph [Lattice Theory in Hawaii:  Bill, JB and Ralph](abstracts/mckenzie.md) (chalk talk)
 - McNulty, George F. [Hawai'ian Excursions into Equational Logic](slides/mcnulty.pdf) 
 - Nation, J. B. [Extending Partial Projective Planes](slides/nation.pdf) 
 - Nishida, Joy [Primer of Quasivariety Lattices](slides/nishida.pdf)
