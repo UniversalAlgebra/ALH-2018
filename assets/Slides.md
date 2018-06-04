@@ -10,8 +10,7 @@
 - DeMeo, William [Thank you Bill, J.B. and Ralph](http://latticetheory.org)
 - Gjonbalaj, Gent (awaiting slides) 
   <!-- [Description of the closure operator for a convex geometry of convex dimension two](slides/gjonbalaj.pdf) -->
-- Idziak, Paweł M. (awaiting slides) 
-  <!-- [Solving Equations -- kith and kin](slides/idziak.pdf)  -->
+- Idziak, Paweł M. [Solving Equations -- kith and kin](slides/idziak.pdf) 
 - Jipsen, Peter  (awaiting slides) 
 <!-- [Greatest Hits of the Hawaiian Legends of Universal Algebra and Lattice Theory](slides/jipsen.pdf) -->
 - Kearnes, Keith [Is supernilpotence super nilpotence?](slides/kearnes.pdf)
