@@ -21,8 +21,7 @@
 - McNulty, George F. [Hawai'ian Excursions into Equational Logic](slides/mcnulty.pdf) 
 - Nation, J. B. [Extending Partial Projective Planes](slides/nation.pdf) 
 - Nishida, Joy [Primer of Quasivariety Lattices](slides/nishida.pdf)
-- Pálfy, Péter Pal (awaiting slides) 
-<!-- [The role of twisted wreath products in the finite congruence lattice problem](slides/palfy.pdf)  -->
+- Pálfy, Péter Pal [The role of twisted wreath products in the finite congruence lattice problem](slides/palfy.pdf)
 - Seselja, Branimir [$$\Omega$$-algebras](slides/seselja.pdf) 
 - Silberger, Sylvia [Sums of finitely many distinct reciprocals](slides/silberger.pdf) 
 - Valeriote, Matthew [UACalc and testing for Maltsev conditions](slides/valeriote.pdf)
